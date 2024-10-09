@@ -1,0 +1,6 @@
+color_1 = "cyan"
+color_2 = "magenta"
+color_3 = "white"
+color_4 = "blue"
+font_1 = "times new roman"
+font_2 = "helvetica"
